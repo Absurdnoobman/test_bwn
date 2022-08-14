@@ -1,6 +1,7 @@
 # test_bwn
 
-A new Flutter project.
+FOR EDUCATIONAL PURPOSE only.
+still learning stuff.
 
 ## Getting Started
 
