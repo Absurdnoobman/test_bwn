@@ -3,6 +3,10 @@
 FOR EDUCATIONAL PURPOSE only.
 still learning stuff.
 
+## แอปสำหรับดู แผนผัง รร.
+
+ยังอยู่ในการพัฒนา แอปยังใช้งานไม่ได้ 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
