@@ -7,7 +7,7 @@ still learning stuff.
 
 ยังอยู่ในการพัฒนา แอปยังใช้งานไม่ได้ 
 
-## Getting Started
+## Flutter
 
 This project is a starting point for a Flutter application.
 
