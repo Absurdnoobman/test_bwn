@@ -70,6 +70,3 @@ class Welcome extends StatelessWidget {
   }
 }
 
-// class MainManuGrid extends StatefulWidget {
-  
-// }
