@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-
 void main() {
   runApp(const MyApp());
 }
@@ -70,6 +69,7 @@ class Welcome extends StatelessWidget {
     );
   }
 }
+
 
 class LowerUI extends StatelessWidget {
   const LowerUI({Key? key}) : super(key: key);
