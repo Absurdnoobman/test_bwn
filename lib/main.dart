@@ -45,6 +45,7 @@ class MyApp extends StatelessWidget {
               child: Image.asset('image/BWNpicFinishedV2.png')
             ),
             const Welcome(),
+            // const LowerUI(),
           ]
         )
       )
@@ -70,3 +71,23 @@ class Welcome extends StatelessWidget {
   }
 }
 
+class LowerUI extends StatelessWidget {
+  const LowerUI({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return GridView.count(
+      crossAxisCount: 2,
+      children: const [
+        DecoratedBox(
+          decoration: BoxDecoration(color: Colors.blue),
+          child: Text('FFFFFF'),
+        ),
+        DecoratedBox(
+          decoration: BoxDecoration(color: Colors.redAccent),
+          child: Text('RRRRRR'),
+        ),
+      ],
+    );
+  }
+}
